@@ -1,27 +1,29 @@
 ---
-title: Getting Started
+title: ShipperMaker API Overview (v1)
 position: 1
 parameters:
   - name:
     content:
 content_markdown: |-
-  Welcome to our API.
+  ShipperMaker APIドキュメントへようこそ！このドキュメントではShipperMakerのAPIの使い方について説明します。
 
-  This API document is designed for those interested in developing for our platform.
+  APIの使い方はとても簡単で、以下の２ステップで完了です。
 
-  This API is still under development and will evolve.
+  認可
+
+  API コール
 
   You'll succeed if you do this.
-  {: .success }
+  {: .success}
 
   Here's some useful information.
-  {: .info }
+  {: .info}
 
   Something may not happen if you try and do this.
-  {: .warning }
+  {: .warning}
 
   Something bad will happen if you do this.
-  {: .error }
+  {: .error}
 left_code_blocks:
   - code_block:
     title:
